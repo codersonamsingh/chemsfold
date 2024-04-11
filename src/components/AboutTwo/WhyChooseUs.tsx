@@ -12,10 +12,18 @@ const WhyChooseUs: React.FC = () => {
               <div className="choose-content">
                 <div className="section-title text-left">
                   <span className="sub-title">Why Choose Us</span>
-                  <h2>Driving Your Vision Forward with Cutting-Edge Solutions</h2>
+                  <h2>Embark on a Journey of Knowledge with Us</h2>
 
                   <p>
-                    Softechinfra, a leading provider of IT services, leverages extensive expertise and experience to actualize your concepts into tangible solutions. Since our establishment in 2014 in Kolkata, India, we have been dedicated to delivering outstanding software engineering solutions to clients across India and globally. Our steadfast commitment to quality and client satisfaction has established us as a reliable partner for businesses seeking reliable and seamless software solutions.
+                    Welcome to Chelmsford Empowering Minds, where empowerment flourishes, and educational aspirations take center stage. Our cutting-edge e-learning platform is your oasis for transformative online education. We bridge the gap between traditional classrooms and modern digital learning experiences.
+                  </p>
+
+                  <p>
+                    Whether you're seeking a crash course or a full course for classes 4, 5, and 6, or need to assess your progress with our mock tests, we've got you covered. Our platform offers initial tests before courses and post-course assessments, with durations ranging from 30 minutes to 3 hours.
+                  </p>
+
+                  <p>
+                    Join us in this journey of knowledge, innovation, and personal growth. Explore more about Chelmsford Empowering Minds and how it can benefit you or someone you know. Don't hesitate to contact us to embark on your educational journey today.
                   </p>
                 </div>
 

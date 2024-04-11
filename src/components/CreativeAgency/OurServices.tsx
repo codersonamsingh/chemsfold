@@ -10,41 +10,21 @@ const OurServices: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title"></span>
-            <h2>Transform Your Learning Experience</h2>
+            <h2>Embark on a Journey of Knowledge and Growth</h2>
             <p>
-            Engage in Online Classes: Join interactive sessions led by expert instructors, ensuring a dynamic and immersive learning experience.
-             Practice with Mock Tests: Sharpen your skills and assess your knowledge through our comprehensive mock tests, preparing you for success.
-             Respect, Care, and Progress: Our platform values your learning journey. We provide support, care, and opportunities for your academic advancement.
+              Discover a transformative learning experience with Chelmsford Empowering Minds. Dive into our array of educational services designed to enrich your mind and empower your potential.
             </p>
           </div>
 
-          {/* Digital Marketing */}
+          {/* Online Classes */}
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
-                <span className="sub-title">Digital Marketing</span>
-                <h2>Connect with Your Educational Oasis.</h2>
+                <span className="sub-title">Interactive Learning</span>
+                <h2>Engage in Dynamic Online Classes</h2>
                 <p>
-                  Our approach to digital marketing is centered around meaningful brand interactions, driving real results and enhancing customer experiences.
+                  Immerse yourself in interactive sessions led by expert instructors. Our online classes ensure a vibrant learning environment where knowledge flourishes and skills are honed.
                 </p>
-
-                <div className="features-text">
-                  <h4>
-                    <i className="flaticon-tick"></i> Strategic Planning
-                  </h4>
-                  <p>
-                    We focus on core development, ensuring that every solution aligns with your business objectives.
-                  </p>
-                </div>
-
-                <div className="features-text">
-                  <h4>
-                    <i className="flaticon-tick"></i> Tailored Strategies
-                  </h4>
-                  <p>
-                    We customize our approach to suit your unique needs, putting the customer at the forefront of every decision.
-                  </p>
-                </div>
               </div>
             </div>
 
@@ -66,7 +46,7 @@ const OurServices: React.FC = () => {
             </div>
           </div>
 
-          {/* Design & Development */}
+          {/* Mock Tests */}
           <div className="overview-box">
             <div className="overview-image">
               <div className="image">
@@ -85,70 +65,24 @@ const OurServices: React.FC = () => {
 
             <div className="overview-content">
               <div className="content right-content">
-                <span className="sub-title">Design & Development</span>
-                <h2>Solving Problems, Building Brands</h2>
+                <span className="sub-title">Assessment & Preparation</span>
+                <h2>Enhance Your Skills with Mock Tests</h2>
                 <p>
-                  Our design and development services are geared towards fostering brand growth and solving complex challenges.
+                  Sharpen your abilities and gauge your progress with our comprehensive mock tests. Prepare yourself thoroughly for success in your academic pursuits.
                 </p>
-
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Website Development
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Mobile App Development
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> CRM Software Solutions
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> UI/UX Design
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Cloud Solutions (AWS, Azure)
-                    </span>
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
 
-          {/* Social Media Marketing */}
+          {/* Personal Growth */}
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
-                <span className="sub-title">Social Media Marketing</span>
-                <h2>Shaping the Future of Advertising</h2>
+                <span className="sub-title">Empowerment & Support</span>
+                <h2>Experience Respect, Care, and Progress</h2>
                 <p>
-                  We leverage the power of social media to create impactful campaigns and drive brand engagement like never before.
+                  At Chelmsford, we prioritize your educational journey. Receive the support, care, and opportunities necessary for your personal and academic growth.
                 </p>
-
-                <div className="features-text">
-                  <h4>
-                    <i className="flaticon-tick"></i> Targeted Campaigns
-                  </h4>
-                  <p>
-                    Our social media strategies are designed to resonate with your audience, delivering tangible results.
-                  </p>
-                </div>
-
-                <div className="features-text">
-                  <h4>
-                    <i className="flaticon-tick"></i> Data-Driven Approaches
-                  </h4>
-                  <p>
-                    We harness the latest analytics tools to refine our strategies and ensure maximum ROI for your campaigns.
-                  </p>
-                </div>
               </div>
             </div>
 
@@ -168,7 +102,7 @@ const OurServices: React.FC = () => {
             </div>
           </div>
 
-          {/* SEO Consultancy */}
+          {/* Additional Services */}
           <div className="overview-box">
             <div className="overview-image">
               <div className="image">
@@ -187,39 +121,11 @@ const OurServices: React.FC = () => {
 
             <div className="overview-content">
               <div className="content right-content">
-                <span className="sub-title">SEO Consultancy</span>
-                <h2>Driving Online Visibility with Strategic SEO Solutions</h2>
+                <span className="sub-title">Comprehensive Support</span>
+                <h2>Unlock Your Potential with Chelmsford</h2>
                 <p>
-                  Our SEO consultancy services are aimed at boosting your online presence and driving organic traffic to your website.
+                  Our platform offers a range of additional services to complement your learning journey. From personalized guidance to advanced resources, we're here to empower you every step of the way.
                 </p>
-
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> On-Page Optimization
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Off-Page Optimization
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Keyword Research
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> SEO Audits
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Local SEO
-                    </span>
-                  </li>
-                </ul>
               </div>
             </div>
           </div>

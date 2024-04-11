@@ -31,7 +31,7 @@ export default function Home() {
 
        <WhyChooseUs />
 
-       <WhatWeDo />
+       {/* <WhatWeDo />
 
       <PartnerSlider />
 
@@ -52,7 +52,7 @@ export default function Home() {
 
       <SubscribeFluid />
 
-      <LatestNews />
+      <LatestNews /> */}
 
       <Footer />
     </>
