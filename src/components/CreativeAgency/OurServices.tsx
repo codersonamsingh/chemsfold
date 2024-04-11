@@ -22,7 +22,7 @@ const OurServices: React.FC = () => {
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
-                <span className="sub-title">Educational Oasis</span>
+                <span className="sub-title">Digital Marketing</span>
                 <h2>Connect with Your Educational Oasis.</h2>
                 <p>
                   Our approach to digital marketing is centered around meaningful brand interactions, driving real results and enhancing customer experiences.
