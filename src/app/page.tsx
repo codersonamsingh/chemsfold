@@ -27,7 +27,7 @@ export default function Home() {
        <OurServices />
 
         
-      <CaseStudies />
+      
 
        <WhyChooseUs />
 
