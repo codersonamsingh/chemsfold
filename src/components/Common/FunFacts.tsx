@@ -11,11 +11,29 @@ const FunFacts: React.FC = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="single-fun-facts">
                 <h3>
-                  324
-                  <span className="sign-icon">+</span>
+                  50<span className="sign-icon">+</span>
                 </h3>
-                <p>Project Completed</p>
-                <div className="back-text">P</div>
+                <p>Qualified Teachers</p>
+                <div className="back-text">T</div>
+              </div>
+            </div>
+
+            <div className="col-lg-3 col-sm-6">
+              <div className="single-fun-facts">
+                <h3>
+                  95
+                  <span className="sign-icon">%</span>
+                </h3>
+                <p>Student Satisfaction</p>
+                <div className="back-text">S</div>
+              </div>
+            </div>
+
+            <div className="col-lg-3 col-sm-6">
+              <div className="single-fun-facts">
+                <h3>20+</h3>
+                <p>Years of Educational Experience</p>
+                <div className="back-text">Y</div>
               </div>
             </div>
 
@@ -25,27 +43,8 @@ const FunFacts: React.FC = () => {
                   100
                   <span className="sign-icon">%</span>
                 </h3>
-                <p>Client Satisfaction</p>
-                <div className="back-text">C</div>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-sm-6">
-              <div className="single-fun-facts">
-                <h3>15</h3>
-                <p>Awards</p>
-                <div className="back-text">A</div>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-sm-6">
-              <div className="single-fun-facts">
-                <h3>
-                  48
-                  <span className="sign-icon">+</span>
-                </h3>
-                <p>Expert Members</p>
-                <div className="back-text">E</div>
+                <p>Success Rate</p>
+                <div className="back-text">S</div>
               </div>
             </div>
           </div>

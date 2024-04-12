@@ -22,10 +22,17 @@ const AboutArea: React.FC = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <span className="sub-title">Welcome to Chelmsford Empowering Minds</span>
-                <h2>Embark on a Journey of Knowledge and Personal Growth</h2>
+                <span className="sub-title">Your E-Learning Platform</span>
+                <h2>
+               Welcome to Your E-Learning Oasis</h2>
                 <p>
-                  At Chelmsford, we're dedicated to empowering minds and enriching lives through innovative e-learning solutions. Our platform is designed to provide a holistic educational experience that fosters personal growth and academic success.
+                Your E-Learning Oasis is a hub for transformative online education, bridging the gap between traditional classrooms and modern digital learning experiences.
+                </p>
+                <h2>
+                Empowering Learning, Personalized Journey
+                </h2>
+                <p>
+                The Gateway to Knowledge, located in the heart of online education, is designed to offer you the full spectrum of learning services, combining the flexibility of digital courses with personalized guidance.
                 </p>
 
                 <ul className="features-list">

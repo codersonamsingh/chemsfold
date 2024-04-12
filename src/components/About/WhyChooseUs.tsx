@@ -12,30 +12,35 @@ const WhyChooseUs: React.FC = () => {
             <div className="col-lg-6 col-md-12">
               <div className="why-choose-content">
                 <span className="sub-title">Why Choose Us</span>
-                <h2>The Key To Your Motivation And Success</h2>
+                <h2>Embark on a Journey of Knowledge and Growth</h2>
                 <p>
-                  We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication.
+                  At Chelmsford Empowering Minds, we believe that every
+                  interaction with education is an opportunity for empowerment
+                  and growth. We strive to provide you with the tools and
+                  resources to succeed and excel in your educational journey.
                 </p>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Core Development
+                    <i className="flaticon-tick"></i> Cutting-Edge Learning
+                    Platform
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    Our platform is designed to offer innovative and
+                    personalized learning experiences. We prioritize your
+                    educational needs to ensure your success.
                   </p>
                 </div>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Define Your Choices
+                    <i className="flaticon-tick"></i> Personalized Learning
+                    Paths
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    Tailor your educational journey according to your needs and
+                    preferences. With us, you define your learning choices and
+                    pace.
                   </p>
                 </div>
               </div>
