@@ -15,9 +15,7 @@ const CaseStudies: React.FC = () => {
             <span className="sub-title">Projects</span>
             <h2>Our Case Studies</h2>
             <p>
-            providing services in software engineering, throughout India and many foreign country since that time.
-             The key agenda of the company is to deliver a completely bug free and trustworthy software as per need of the 
-             client
+              Embark on a journey of knowledge, innovation, and personal growth with our cutting-edge e-learning platform. Here, empowerment flourishes, and your educational aspirations take center stage. Explore our diverse range of case studies showcasing our commitment to enriching minds and empowering learners.
             </p>
           </div>
 
@@ -52,16 +50,16 @@ const CaseStudies: React.FC = () => {
 
                 <div className="content text-center">
                   <span>
-                    <Link href="/projects/2">SEO Optimization</Link>
+                    <Link href="/projects/2">Mock Test</Link>
                   </span>
                   <h3>
                     <Link href="/projects/details">
-                      Designing a better cinema experience
+                      Initial Test: Assess Your Knowledge
                     </Link>
                   </h3>
 
                   <Link href="/projects/details" className="work-btn">
-                    Case Study
+                    View Details
                   </Link>
                 </div>
               </div>
@@ -78,124 +76,23 @@ const CaseStudies: React.FC = () => {
 
                 <div className="content text-center">
                   <span>
-                    <Link href="/projects/2">Digital Marketing</Link>
+                    <Link href="/projects/2">Full Course</Link>
                   </span>
                   <h3>
                     <Link href="/projects/details">
-                      Building design process within teams
+                      Comprehensive Learning Experience
                     </Link>
                   </h3>
 
                   <Link href="/projects/details" className="work-btn">
-                    Case Study
+                    View Details
                   </Link>
                 </div>
               </div>
             </SwiperSlide>
 
-            <SwiperSlide>
-              <div className="work-card">
-                <Image
-                  src="/images/works/work3.jpg"
-                  alt="image"
-                  width={510}
-                  height={700}
-                />
+            {/* Add more slides here for different case studies */}
 
-                <div className="content text-center">
-                  <span>
-                    <Link href="/projects/2">Keyword Targeting</Link>
-                  </span>
-                  <h3>
-                    <Link href="/projects/details">
-                      How intercom brings play eCommerce
-                    </Link>
-                  </h3>
-
-                  <Link href="/projects/details" className="work-btn">
-                    Case Study
-                  </Link>
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="work-card">
-                <Image
-                  src="/images/works/work4.jpg"
-                  alt="image"
-                  width={510}
-                  height={700}
-                />
-
-                <div className="content text-center">
-                  <span>
-                    <Link href="/projects/2">Email Marketing</Link>
-                  </span>
-                  <h3>
-                    <Link href="/projects/details">
-                      How to start a project with Reactjs
-                    </Link>
-                  </h3>
-
-                  <Link href="/projects/details" className="work-btn">
-                    Case Study
-                  </Link>
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="work-card">
-                <Image
-                  src="/images/works/work5.jpg"
-                  alt="image"
-                  width={510}
-                  height={700}
-                />
-
-                <div className="content text-center">
-                  <span>
-                    <Link href="/projects/2">Marketing & Reporting</Link>
-                  </span>
-                  <h3>
-                    <Link href="/projects/details">
-                      Examples of different types of sprints
-                    </Link>
-                  </h3>
-
-                  <Link href="/projects/details" className="work-btn">
-                    Case Study
-                  </Link>
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="work-card">
-                <Image
-                  src="/images/works/work6.jpg"
-                  alt="image"
-                  width={510}
-                  height={700}
-                />
-
-                <div className="content text-center">
-                  <span>
-                    <Link href="/projects/2">Development</Link>
-                  </span>
-                  <h3>
-                    <Link href="/projects/details">
-                      Redesigning the New York times app
-                    </Link>
-                  </h3>
-
-                  <Link href="/projects/details" className="work-btn">
-                    Case Study
-                  </Link>
-                </div>
-              </div>
-            </SwiperSlide>
           </Swiper>
         </div>
       </div>

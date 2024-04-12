@@ -53,9 +53,10 @@ export const menus = [
     //   },
     // ],
   },
+  
   {
-    label: "Classes",
-    link: "/Classes/",
+    label: "About us",
+    link: "/About us/",
     // submenu: [
     //   {
     //     label: "About Us",
@@ -100,8 +101,8 @@ export const menus = [
     // ],
   },
   {
-    label: "Mock Test",
-    link:  "/Mock Test/",
+    label: "Classes",
+    link: "/Classes/",
   //   submenu: [
   //     {
   //       label: "Services Style One",
@@ -147,9 +148,9 @@ export const menus = [
   //     },
   //   ],
   },
-  // {
-  //   label: "Shop",
-  //   link: "/shop/",
+  {
+       label: "Mock Test",
+    link:  "/Mock Test/",
     // submenu: [
     //   {
     //     label: "Shop",
@@ -186,7 +187,7 @@ export const menus = [
     //     link: "/blog/details/",
     //   },
     // ],
-  //},
+  },
   {
     label: "Contact",
     link: "/contact/",
