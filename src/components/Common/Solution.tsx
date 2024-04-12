@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import FsLightbox from "fslightbox-react";
 import Link from "next/link";
 
-const Solution: React.FC = () => {
+const ChelmsfordSolution: React.FC = () => {
   // To open the lightbox change the value of the "toggler" prop.
   const [toggler, setToggler] = useState(false);
 
@@ -12,7 +12,7 @@ const Solution: React.FC = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
+        sources={["https://youtu.be/Si6YbxWh0bE?si=2cdwYmqOQ-JR_0y0"]}
       />
 
       <div
@@ -26,10 +26,12 @@ const Solution: React.FC = () => {
             <div className="col-lg-6 col-md-12">
               <div className="solution-content">
                 <span className="sub-title">Watch Our Video</span>
-                <h2>Get Better Solution For Your Business</h2>
+                <h2>Embark on a Journey of Knowledge</h2>
                 <p>
-                  No fake products and services. The customer is king, their
-                  lives and needs are the inspiration.
+                  At Chelmsford, we believe in empowering minds and enriching
+                  lives through education. Our platform offers a variety of
+                  courses and mock tests to help you achieve your educational
+                  aspirations.
                 </p>
 
                 <Link href="/contact" className="default-btn">
@@ -55,4 +57,4 @@ const Solution: React.FC = () => {
   );
 };
 
-export default Solution;
+export default ChelmsfordSolution;

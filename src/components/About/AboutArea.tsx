@@ -34,19 +34,37 @@ const AboutArea: React.FC = () => {
                 <p>
                 The Gateway to Knowledge, located in the heart of online education, is designed to offer you the full spectrum of learning services, combining the flexibility of digital courses with personalized guidance.
                 </p>
+                <h2>
+                A Full Range of Courses
+                </h2>
+                <p>
+                Your E-Learning Oasis provides a wide range of courses and amenities:
+                </p>
 
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Comprehensive Course Offerings
+                      <i className="fas fa-check"></i> Diverse Subject Offerings
+
+                
                     </span>
+                    <p>
+                    From foundational math and English courses to advanced programming and design.
+                    </p>
+                    
                   </li>
+                  
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Interactive Learning Environment
+                      <i className="fas fa-check"></i>  Interactive Learning Tools
                     </span>
+                    <p>
+                    Engage with quizzes, simulations, and collaborative projects for a hands-on learning experience.
+
+
+                    </p>
                   </li>
-                  <li>
+                  {/* <li>
                     <span>
                       <i className="fas fa-check"></i> Expert Guidance and Support
                     </span>
@@ -55,8 +73,8 @@ const AboutArea: React.FC = () => {
                     <span>
                       <i className="fas fa-check"></i> Cutting-edge Educational Tools
                     </span>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <span>
                       <i className="fas fa-check"></i> Personalized Learning Paths
                     </span>
@@ -65,7 +83,7 @@ const AboutArea: React.FC = () => {
                     <span>
                       <i className="fas fa-check"></i> Community Engagement
                     </span>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

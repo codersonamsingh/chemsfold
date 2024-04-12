@@ -31,13 +31,13 @@ export default function Page() {
 
       <Solution />
 
-      <Testimonials />
+      {/* <Testimonials />
 
       <OurTeam />
 
       <SubscribeFluid />
 
-      <PartnerWithTitle />
+      <PartnerWithTitle /> */}
 
       <Footer />
     </>
