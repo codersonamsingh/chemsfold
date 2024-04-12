@@ -22,45 +22,41 @@ const AboutArea: React.FC = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <span className="sub-title">About Us</span>
-                <h2>We Are Digital Explorers</h2>
+                <span className="sub-title">Welcome to Chelmsford Empowering Minds</span>
+                <h2>Embark on a Journey of Knowledge and Personal Growth</h2>
                 <p>
-                  We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.
-                  The customer is king, their lives and needs are the
-                  inspiration.
+                  At Chelmsford, we're dedicated to empowering minds and enriching lives through innovative e-learning solutions. Our platform is designed to provide a holistic educational experience that fosters personal growth and academic success.
                 </p>
 
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Recommender systems
+                      <i className="fas fa-check"></i> Comprehensive Course Offerings
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Demand prediction
+                      <i className="fas fa-check"></i> Interactive Learning Environment
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Omnichannel analytics
+                      <i className="fas fa-check"></i> Expert Guidance and Support
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Lead generation
+                      <i className="fas fa-check"></i> Cutting-edge Educational Tools
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Dedicated Developers
+                      <i className="fas fa-check"></i> Personalized Learning Paths
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> 24/7 Support
+                      <i className="fas fa-check"></i> Community Engagement
                     </span>
                   </li>
                 </ul>
@@ -74,22 +70,21 @@ const AboutArea: React.FC = () => {
                 <div className="about-text">
                   <h3>Our History</h3>
                   <p>
-                    Real innovations and a positive customer experience are the
-                    heart of successful communication.
+                    Since our inception, Chelmsford has been committed to providing high-quality education that empowers individuals to achieve their fullest potential.
                   </p>
 
                   <ul className="features-list">
                     <li>
-                      <i className="flaticon-tick"></i> Activate Listening
+                      <i className="flaticon-tick"></i> Passion for Learning
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> Brilliant minds
+                      <i className="flaticon-tick"></i> Inspiring Success Stories
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> Better. Best. Wow!
+                      <i className="flaticon-tick"></i> Continuous Innovation
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> Branding it better!
+                      <i className="flaticon-tick"></i> Educational Excellence
                     </li>
                   </ul>
                 </div>
@@ -99,22 +94,21 @@ const AboutArea: React.FC = () => {
                 <div className="about-text">
                   <h3>Our Mission</h3>
                   <p>
-                    Real innovations and a positive customer experience are the
-                    heart of successful communication.
+                    Our mission is to empower learners of all ages to unlock their potential, foster a love for learning, and make education accessible to everyone.
                   </p>
 
                   <ul className="features-list">
                     <li>
-                      <i className="flaticon-tick"></i> Creating. Results.
+                      <i className="flaticon-tick"></i> Empowering Minds
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> Expect more
+                      <i className="flaticon-tick"></i> Inspiring Innovation
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> Good thinking
+                      <i className="flaticon-tick"></i> Transforming Education
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> In real we trust
+                      <i className="flaticon-tick"></i> Building Brighter Futures
                     </li>
                   </ul>
                 </div>
@@ -122,24 +116,23 @@ const AboutArea: React.FC = () => {
 
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Who we are</h3>
+                  <h3>Who We Are</h3>
                   <p>
-                    Real innovations and a positive customer experience are the
-                    heart of successful communication.
+                    At Chelmsford, we are passionate educators, dedicated to shaping the minds of tomorrow and making a positive impact on society through education.
                   </p>
 
                   <ul className="features-list">
                     <li>
-                      <i className="flaticon-tick"></i> Stay real. Always.
+                      <i className="flaticon-tick"></i> Commitment to Excellence
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> We have you covered
+                      <i className="flaticon-tick"></i> Student-Centered Approach
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> We turn heads
+                      <i className="flaticon-tick"></i> Innovation and Creativity
                     </li>
                     <li>
-                      <i className="flaticon-tick"></i> Your brand, promoted
+                      <i className="flaticon-tick"></i> Lifelong Learning Advocates
                     </li>
                   </ul>
                 </div>
