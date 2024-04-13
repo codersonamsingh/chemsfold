@@ -28,19 +28,15 @@ export default function Page() {
 
       <OurServices />
 
-      <OurFeaturesTab />
+      
 
       <FunFacts />
 
       <ProjectGallerySlider />
 
-      <OurTeam />
+      
 
       <Solution />
-
-      <Testimonials />
-
-      <Pricing />
 
       <SubscribeFluid />
 

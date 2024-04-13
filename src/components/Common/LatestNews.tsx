@@ -10,8 +10,8 @@ const LatestNews: React.FC = () => {
       <div className="blog-area ptb-100 bg-F4F7FC">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Latest News</span>
-            <h2>Our Latest Articles And News For Our Clients</h2>
+            <span className="sub-title">Latest Updates</span>
+            <h2>Stay Updated with Our Latest News and Articles</h2>
           </div>
 
           <div className="row justify-content-center">
@@ -34,17 +34,17 @@ const LatestNews: React.FC = () => {
                         By:
                         <Link href="/blog">Sarah Taylor</Link>
                       </li>
-                      <li>June 24, 2023</li>
+                      <li>April 13, 2024</li>
                     </ul>
                   </div>
                   <h3>
                     <Link href="/blog/details">
-                      How To Boost Your Digital Marketing Agency
+                      Empower Your Mind: The Path to Personal Growth
                     </Link>
                   </h3>
                   <p>
-                  We believe brand interaction is key to communication.
-                   Real innovations and positive customer experience are the heart of success.
+                    Discover the latest strategies for enhancing personal growth
+                    and unlocking your full potential.
                   </p>
 
                   <Link href="/blog/details" className="read-more-btn">
@@ -73,17 +73,17 @@ const LatestNews: React.FC = () => {
                         By:
                         <Link href="/blog">James Anderson</Link>
                       </li>
-                      <li>June 26, 2024</li>
+                      <li>April 14, 2024</li>
                     </ul>
                   </div>
                   <h3>
                     <Link href="/blog/details">
-                      The Rise Of Smarketing And Why You Need It
+                      Unleash Your Potential: The Power of Education
                     </Link>
                   </h3>
                   <p>
-                  The key agenda of the company is to deliver a
-                   completly bug free and trustworthy software as per client's need.
+                    Explore how education can empower individuals and drive
+                    positive change in society.
                   </p>
 
                   <Link href="/blog/details" className="read-more-btn">
@@ -112,17 +112,17 @@ const LatestNews: React.FC = () => {
                         By:
                         <Link href="/blog">Steven Smith</Link>
                       </li>
-                      <li>June 25, 2024</li>
+                      <li>April 15, 2024</li>
                     </ul>
                   </div>
                   <h3>
                     <Link href="/blog/details">
-                      How To Use Music To Boost Your Business
+                      Nurturing Young Minds: The Importance of Early Education
                     </Link>
                   </h3>
                   <p>
-                  The key agenda of the company is to deliver a 
-                  completly bug free and trustworthy software as per client's need.
+                    Learn about the crucial role of early education in shaping
+                    the future of young minds.
                   </p>
 
                   <Link href="/blog/details" className="read-more-btn">

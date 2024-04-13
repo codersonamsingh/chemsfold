@@ -13,7 +13,7 @@ const ProjectGallerySlider: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Projects Gallery</span>
-            <h2>We’ve Done Lot’s Of Work, Let’s Check Some From Here</h2>
+            <h2>Explore Our Educational Initiatives</h2>
           </div>
         </div>
 
@@ -58,12 +58,12 @@ const ProjectGallerySlider: React.FC = () => {
                 />
                 <div className="projects-content">
                   <h3>
-                    <Link href="/projects/details">Digital Marketing</Link>
+                    <Link href="/courses/details">Mock Test Preparation</Link>
                   </h3>
-                  <span className="category">Design</span>
+                  <span className="category">Crash Course</span>
                 </div>
                 <div className="plus-icon">
-                  <Link href="/projects/details" className="popup-btn">
+                  <Link href="/courses/details" className="popup-btn">
                     <span></span>
                   </Link>
                 </div>
@@ -80,12 +80,12 @@ const ProjectGallerySlider: React.FC = () => {
                 />
                 <div className="projects-content">
                   <h3>
-                    <Link href="/projects/details">Design & Development</Link>
+                    <Link href="/courses/details">Comprehensive Learning Program</Link>
                   </h3>
-                  <span className="category">Planing</span>
+                  <span className="category">Full Course</span>
                 </div>
                 <div className="plus-icon">
-                  <Link href="/projects/details" className="popup-btn">
+                  <Link href="/courses/details" className="popup-btn">
                     <span></span>
                   </Link>
                 </div>
@@ -102,12 +102,12 @@ const ProjectGallerySlider: React.FC = () => {
                 />
                 <div className="projects-content">
                   <h3>
-                    <Link href="/projects/details">Strategic Planing</Link>
+                    <Link href="/mocktests/details">Initial Assessment</Link>
                   </h3>
-                  <span className="category">Marketing</span>
+                  <span className="category">30 Minutes Test</span>
                 </div>
                 <div className="plus-icon">
-                  <Link href="/projects/details" className="popup-btn">
+                  <Link href="/mocktests/details" className="popup-btn">
                     <span></span>
                   </Link>
                 </div>
@@ -124,12 +124,12 @@ const ProjectGallerySlider: React.FC = () => {
                 />
                 <div className="projects-content">
                   <h3>
-                    <Link href="/projects/details">SEO Consultancy</Link>
+                    <Link href="/mocktests/details">Post-Course Evaluation</Link>
                   </h3>
-                  <span className="category">Development</span>
+                  <span className="category">2 Hours Test</span>
                 </div>
                 <div className="plus-icon">
-                  <Link href="/projects/details" className="popup-btn">
+                  <Link href="/mocktests/details" className="popup-btn">
                     <span></span>
                   </Link>
                 </div>
@@ -146,34 +146,12 @@ const ProjectGallerySlider: React.FC = () => {
                 />
                 <div className="projects-content">
                   <h3>
-                    <Link href="/projects/details">Competitor Analysis</Link>
+                    <Link href="/mocktests/details">Final Assessment</Link>
                   </h3>
-                  <span className="category">Design</span>
+                  <span className="category">3 Hours Test</span>
                 </div>
                 <div className="plus-icon">
-                  <Link href="/projects/details" className="popup-btn">
-                    <span></span>
-                  </Link>
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="single-projects-box">
-                <Image
-                  src="/images/projects-image/project6.jpg"
-                  alt="image"
-                  width={600}
-                  height={600}
-                />
-                <div className="projects-content">
-                  <h3>
-                    <Link href="/projects/details">Social Media Marketing</Link>
-                  </h3>
-                  <span className="category">Development</span>
-                </div>
-                <div className="plus-icon">
-                  <Link href="/projects/details" className="popup-btn">
+                  <Link href="/mocktests/details" className="popup-btn">
                     <span></span>
                   </Link>
                 </div>
