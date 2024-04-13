@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../../components/Layout/Navbar";
+import BannerSlider from "../../components/SEOAgency/BannerSlider";
 import PageHeader from "../../components/Common/PageHeader";
 import AboutArea from "../../components/About/AboutArea";
 import FunFacts from "../../components/Common/FunFacts";
@@ -22,6 +23,7 @@ export default function Page() {
         breadcrumbUrl="/"
         breadcrumbTextTwo="About Us"
       />
+      <BannerSlider />
 
       <AboutArea />
 

@@ -24,14 +24,13 @@ const FeaturedServices: React.FC = () => {
                   <i className="flaticon-analytics"></i>
                 </div>
 
-                <h3>Marketing Analysis</h3>
+                <h3>Mock Test</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
+                  Take mock tests to assess your knowledge and readiness for exams.
                 </p>
 
-                <Link href="/services/details" className="default-btn">
-                  Read More <span></span>
+                <Link href="/mock-tests" className="default-btn">
+                  Take Test <span></span>
                 </Link>
               </div>
             </div>
@@ -42,14 +41,13 @@ const FeaturedServices: React.FC = () => {
                   <i className="flaticon-mail"></i>
                 </div>
 
-                <h3>Email Marketing</h3>
+                <h3>Online Classes</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
+                  Enroll in our online classes for comprehensive learning experiences.
                 </p>
 
-                <Link href="/services/details" className="default-btn">
-                  Read More <span></span>
+                <Link href="/online-classes" className="default-btn">
+                  Enroll Now <span></span>
                 </Link>
               </div>
             </div>
@@ -60,14 +58,13 @@ const FeaturedServices: React.FC = () => {
                   <i className="flaticon-research"></i>
                 </div>
 
-                <h3>Website Optimization</h3>
+                <h3>Personalized Learning</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
+                  Experience personalized learning tailored to your educational needs.
                 </p>
 
-                <Link href="/services/details" className="default-btn">
-                  Read More <span></span>
+                <Link href="/personalized-learning" className="default-btn">
+                  Learn More <span></span>
                 </Link>
               </div>
             </div>

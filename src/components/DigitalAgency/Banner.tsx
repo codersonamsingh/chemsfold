@@ -13,10 +13,10 @@ const Banner: React.FC = () => {
               <div className="row">
                 <div className="col-lg-7 col-md-12">
                   <div className="banner-content">
-                    <span className="sub-title">Empowering Your Digital Journey</span>
-                    <h1>Revolutionize Your Business with Innovative Solutions!</h1>
+                    <span className="sub-title">Embark on a Journey of Knowledge and Growth</span>
+                    <h1>Empower Your Education with Cutting-Edge Learning!</h1>
                     <p>
-                      Softechinfra partners with visionary brands to push the boundaries of digital innovation, reshaping the landscape of possibilities.
+                      Join Chelmsford Empowering Minds and unlock a world of educational possibilities. Our innovative e-learning platform is designed to enrich your learning experience and fuel your personal growth.
                     </p>
 
                     <form>

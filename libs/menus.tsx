@@ -149,8 +149,8 @@ export const menus = [
   //   ],
   },
   {
-       label: "Mock Test",
-    link:  "/Mock Test/",
+       label: "MockTest",
+    link:  "/MockTest/",
     // submenu: [
     //   {
     //     label: "Shop",

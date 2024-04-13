@@ -8,7 +8,6 @@ const ContactForm: React.FC = () => {
     name: "",
     email: "",
     phone: "",
-    serviceInterested: "",
     message: "",
   });
 
@@ -31,7 +30,6 @@ const ContactForm: React.FC = () => {
       name: "",
       email: "",
       phone: "",
-      serviceInterested: "",
       message: "",
     });
   };
@@ -44,8 +42,7 @@ const ContactForm: React.FC = () => {
             <span className="sub-title">Contact Us</span>
             <h2>Get In Touch</h2>
             <p>
-              Feel free to reach out for any inquiries. We are here to assist
-              you.
+              Feel free to reach out to us for any inquiries or assistance you may need.
             </p>
           </div>
 
@@ -102,20 +99,6 @@ const ContactForm: React.FC = () => {
                           onChange={handleChange}
                           className="form-control"
                           placeholder="Your Phone"
-                          required
-                        />
-                      </div>
-                    </div>
-
-                    <div className="col-lg-6 col-md-6 col-sm-6">
-                      <div className="form-group">
-                        <input
-                          type="text"
-                          name="serviceInterested"
-                          value={formData.serviceInterested}
-                          onChange={handleChange}
-                          className="form-control"
-                          placeholder="Service Interested In"
                           required
                         />
                       </div>

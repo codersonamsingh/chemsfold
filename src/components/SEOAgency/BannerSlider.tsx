@@ -15,7 +15,7 @@ const BannerSlider: React.FC = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
+        sources={["https://youtu.be/sxVHo1DemOU?si=TaKqerj_xfQUK18V"]}
       />
 
       <Swiper
@@ -36,7 +36,7 @@ const BannerSlider: React.FC = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-6">
                       <div className="banner-content">
-                        <h1>Digital Agency with Excellence Service</h1>
+                        <h1>Welcome to Chelmsford A full range of course</h1>
 
                         <p>
                           We work hand-in-hand with industry-leading brands to
@@ -174,12 +174,14 @@ const BannerSlider: React.FC = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-6">
                       <div className="banner-content">
-                        <h1>Creative & Strategic Digital Marketing Agency</h1>
+                        <h1>Welcome to Chelmsford 
+                          A full Range of Course
+                        </h1>
 
                         <p>
-                          We work hand-in-hand with industry-leading brands to
-                          help redefine the possibilities and potential of
-                          digital engagements.
+                        Many students have found success with Chelmsford, achieving their academic goals and unlocking new opportunities for personal and professional growth.
+
+                       Ultimately, choosing Chelmsford means investing in a high-quality education that empowers you to reach your full potential and achieve your dreams.
                         </p>
 
                         <div className="banner-btn">
@@ -315,9 +317,11 @@ const BannerSlider: React.FC = () => {
                         <h1>Creative Solutions to Improve your Business!</h1>
 
                         <p>
-                          We work hand-in-hand with industry-leading brands to
-                          help redefine the possibilities and potential of
-                          digital engagements.
+                        Many students have found success with Chelmsford, achieving their academic goals and unlocking 
+                        new opportunities for personal and professional growth.
+
+                      Ultimately, choosing Chelmsford means investing in a high-quality education that empowers you to reach your full potential and achieve 
+                      your dreams.
                         </p>
 
                         <div className="banner-btn">
