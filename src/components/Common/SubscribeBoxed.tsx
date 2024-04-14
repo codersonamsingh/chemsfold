@@ -13,8 +13,8 @@ const SubscribeBoxed: React.FC = () => {
             style={{ backgroundImage: `url(/images/subscribe-bg.jpg)` }}
           >
             <div className="subscribe-content">
-              <span className="sub-title">Get Started Instantly!</span>
-              <h2>Get on only new update from this newsletter!</h2>
+              <span className="sub-title">Join Our Learning Community!</span>
+              <h2>Stay Updated with Our Latest Educational Offerings!</h2>
 
               <form className="newsletter-form">
                 <input

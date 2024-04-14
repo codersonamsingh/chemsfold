@@ -34,17 +34,12 @@ export default function Page() {
 
       <FunFacts />
 
-      <ProjectGallerySlide/>
+      <ProjectGallerySlider />
+
 
       <Solution />
 
-      <Testimonials />
-
-      <Pricing />
-
-      <PartnerWithTitle />
-
-      <LatestNews />
+      
 
       <div className="ptb-100">
         <SubscribeBoxed />
