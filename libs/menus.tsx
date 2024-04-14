@@ -192,4 +192,8 @@ export const menus = [
     label: "Contact",
     link: "/contact/",
   },
+  {
+    label: "login",
+    link: "/login/",
+  },
 ];

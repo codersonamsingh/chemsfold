@@ -117,7 +117,7 @@ const Navbar: React.FC = () => {
                   </div>
                 </div>
 
-                <div className="burger-menu" onClick={toggleModal}>
+                <div className="Login-button" onClick={toggleModal}>
                   <span></span>
                   <span></span>
                   <span></span>

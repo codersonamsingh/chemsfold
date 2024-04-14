@@ -49,7 +49,7 @@ const LoginForm: React.FC = () => {
               </div>
 
               <div className="col-6 text-right">
-                <Link href="/reset-password" className="form-link right">
+                <Link href="/forgot-password" className="form-link right">
                   Forgot password?
                 </Link>
               </div>
