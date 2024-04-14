@@ -19,17 +19,17 @@ const ContactInfo: React.FC = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6 col-sm-6">
+           <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="contact-info-box">
                 <div className="icon">
-                  <i className="flaticon-map-marker"></i>
+                 <i className="flaticon-maker"></i>
                 </div>
                 <h3>Our Location</h3>
-                <p> Araria, Bihar 854321</p>
-                <p>India</p>
+                <p>ARARIA, BIHAR 854321
+                   INDIA Country</p>
               </div>
             </div>
-
+           
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="contact-info-box">
                 <div className="icon">
@@ -37,6 +37,7 @@ const ContactInfo: React.FC = () => {
                 </div>
                 <h3>Call Us</h3>
                 <p>+91 9846173905</p>
+               
               </div>
             </div>
           </div>
