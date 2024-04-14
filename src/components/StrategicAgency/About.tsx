@@ -3,22 +3,22 @@
 import React from "react";
 import Image from "next/image";
 
-const About: React.FC = () => {
+const MockTest: React.FC = () => {
   return (
     <>
-      <div className="about-area ptb-100 pt-0">
+      <div className="mock-test-area ptb-100">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
-              <div 
-                className="about-image"
+              <div
+                className="mock-test-image"
                 data-aos="fade-up"
                 data-aos-duration="800"
                 data-aos-delay="100"
                 data-aos-once="true"
               >
                 <Image
-                  src="/images/about-img1.png"
+                  src="/images/faq.png"
                   alt="image"
                   width={830}
                   height={750}
@@ -27,66 +27,79 @@ const About: React.FC = () => {
             </div>
 
             <div className="col-lg-6 col-md-12">
-              <div className="about-content">
-                <span className="sub-title">About Us</span>
-                <h2>We Are Digital Explorers</h2>
+              <div className="mock-test-content">
+                <span className="sub-title">Mock Test</span>
+                <h2>Assess Your Skills with Our Mock Tests</h2>
                 <p>
-                  We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.
-                  The customer is king, their lives and needs are the
-                  inspiration.
+                  Our mock tests are designed to assess and enhance your
+                  skills in various subjects. Whether you're preparing for
+                  exams or simply want to gauge your understanding, our mock
+                  tests offer comprehensive evaluations.
                 </p>
 
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Recommender systems
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Demand prediction
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Omnichannel analytics
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Lead generation
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Dedicated Developers
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> 24/7 Support
-                    </span>
-                  </li>
-                </ul>
+                <div className="mock-test-types">
+                  <h3>Types of Mock Tests</h3>
+                  <ul>
+                    <li>
+                      <span>
+                        <i className="fas fa-check"></i> Initial Test
+                      </span>
+                    </li>
+                    <li>
+                      <span>
+                        <i className="fas fa-check"></i> After Course Test
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="mock-test-durations">
+                  <h3>Test Durations</h3>
+                  <ul>
+                    <li>
+                      <span>
+                        <i className="fas fa-check"></i> 30 Minutes
+                      </span>
+                    </li>
+                    <li>
+                      <span>
+                        <i className="fas fa-check"></i> 1 Hour
+                      </span>
+                    </li>
+                    <li>
+                      <span>
+                        <i className="fas fa-check"></i> 2 Hours
+                      </span>
+                    </li>
+                    <li>
+                      <span>
+                        <i className="fas fa-check"></i> 3 Hours
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="mock-test-login">
+                  <p>Log in to access the mock tests and track your progress.</p>
+                  {/* You can add a login button or symbol here */}
+                </div>
               </div>
             </div>
           </div>
         </div>
 
-        {/* Animation Shape Image */}
-        <div className="shape-img3">
+        {/* Animation Shape Images */}
+        <div className="shape-img4">
           <Image
-            src="/images/shape/shape3.svg"
+            src="/images/shape/shape4.svg"
             alt="image"
-            width={22}
-            height={22}
+            width={24}
+            height={24}
           />
         </div>
-        <div className="shape-img2">
+        <div className="shape-img5">
           <Image
-            src="/images/shape/shape2.svg"
+            src="/images/shape/shape5.svg"
             alt="image"
             width={20}
             height={20}
@@ -97,4 +110,4 @@ const About: React.FC = () => {
   );
 };
 
-export default About;
+export default MockTest;

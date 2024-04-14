@@ -12,16 +12,15 @@ const Banner: React.FC = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-12">
                   <div className="hero-banner-content">
-                    <span className="sub-title">Welcome to Softechinfra</span>
-                    <h1>Innovative Solutions for Your Digital Needs</h1>
+                    <span className="sub-title">Embark on a Journey of Knowledge</span>
+                    <h1>Enrich Your Mind with Chelmsford</h1>
                     <p>
-                      Empowering businesses with cutting-edge technologies and
-                      strategic insights to thrive in the digital landscape.
+                      Dive into a world of education, innovation, and personal growth. Let Chelmsford Empowering Minds be your guide to unlocking your full potential.
                     </p>
 
                     <div className="btn-box">
                       <Link href="/contact" className="default-btn">
-                        Get Started <span></span>
+                        Explore Now <span></span>
                       </Link>
                     </div>
                   </div>

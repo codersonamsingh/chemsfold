@@ -1,74 +1,50 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
 
-const FeaturedServices: React.FC = () => {
+const MockTestSection: React.FC = () => {
   return (
     <>
-      <div className="featured-services-area ptb-100">
+      <div className="mock-test-area ptb-100">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Our Services</span>
-            <h2>Our Featured Services</h2>
+            <span className="sub-title">Mock Test</span>
+            <h2>Prepare with Mock Tests</h2>
             <p>
-              Real innovations and a positive customer experience are the heart
-              of successful communication. No fake products and services.
+              Sharpen your skills and assess your progress with our range of mock tests tailored for students of Class 4, 5, and 6.
             </p>
           </div>
 
           <div className="row justify-content-center">
             <div className="col-lg-4 col-sm-6 col-md-6">
-              <div className="single-featured-box">
-                <div className="icon">
-                  <i className="flaticon-analytics"></i>
-                </div>
-
-                <h3>Marketing Analysis</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
-                </p>
-
-                <Link href="/services/details" className="default-btn">
-                  Read More <span></span>
-                </Link>
+              <div className="single-mock-test-box">
+                <h3>Class</h3>
+                <ul>
+                  <li>Class 4</li>
+                  <li>Class 5</li>
+                  <li>Class 6</li>
+                </ul>
               </div>
             </div>
 
             <div className="col-lg-4 col-sm-6 col-md-6">
-              <div className="single-featured-box">
-                <div className="icon color-facd60">
-                  <i className="flaticon-mail"></i>
-                </div>
-
-                <h3>Email Marketing</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
-                </p>
-
-                <Link href="/services/details" className="default-btn">
-                  Read More <span></span>
-                </Link>
+              <div className="single-mock-test-box">
+                <h3>Type</h3>
+                <ul>
+                  <li>Initial Test</li>
+                  <li>After Course</li>
+                </ul>
               </div>
             </div>
 
             <div className="col-lg-4 col-sm-6 col-md-6">
-              <div className="single-featured-box">
-                <div className="icon color-1ac0c6">
-                  <i className="flaticon-research"></i>
-                </div>
-
-                <h3>Website Optimization</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
-                </p>
-
-                <Link href="/services/details" className="default-btn">
-                  Read More <span></span>
-                </Link>
+              <div className="single-mock-test-box">
+                <h3>Duration</h3>
+                <ul>
+                  <li>30 Minutes</li>
+                  <li>1 Hour</li>
+                  <li>2 Hours</li>
+                  <li>3 Hours</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -78,4 +54,4 @@ const FeaturedServices: React.FC = () => {
   );
 };
 
-export default FeaturedServices;
+export default MockTestSection;

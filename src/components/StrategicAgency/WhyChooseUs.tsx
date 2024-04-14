@@ -12,30 +12,26 @@ const WhyChooseUs: React.FC = () => {
             <div className="col-lg-6 col-md-12">
               <div className="why-choose-content">
                 <span className="sub-title">Why Choose Us</span>
-                <h2>The Key To Your Motivation And Success</h2>
+                <h2>Empowering Minds, Enriching Lives</h2>
                 <p>
-                  We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication.
+                  Embark on a journey of knowledge, innovation, and personal growth with our cutting-edge e-learning platform. Here, empowerment flourishes, and your educational aspirations take center stage.
                 </p>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Core Development
+                    <i className="flaticon-tick"></i> Comprehensive Curriculum
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    Dive into a curriculum meticulously crafted to ignite curiosity and foster holistic development.
                   </p>
                 </div>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Define Your Choices
+                    <i className="flaticon-tick"></i> Flexible Learning Options
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    Choose from crash courses or full courses tailored to suit your schedule and learning pace.
                   </p>
                 </div>
               </div>
