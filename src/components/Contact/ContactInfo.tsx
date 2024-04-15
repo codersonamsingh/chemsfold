@@ -14,15 +14,15 @@ const ContactInfo: React.FC = () => {
                   <i className="flaticon-email"></i>
                 </div>
                 <h3>Email Us</h3>
-                <p>info@chelmsfordempoweringminds.com</p>
-                <p>support@chelmsfordempoweringminds.com</p>
+                <p>info@chelmsford.softechinfra.com</p>
+                {/* <p>support@chelmsfordempoweringminds.com</p> */}
               </div>
             </div>
 
            <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="contact-info-box">
                 <div className="icon">
-                 <i className="flaticon-maker"></i>
+                 <i className="flaticon-marker"></i>
                 </div>
                 <h3>Our Location</h3>
                 <p>ARARIA, BIHAR 854321
