@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../../components/Layout/Navbar";
+import PageHeader from "../../components/Common/PageHeader";
 import Banner from "../../components/StrategicAgency/Banner";
 import FeaturedServices from "../../components/StrategicAgency/FeaturedServices";
 import About from "../../components/StrategicAgency/About";
@@ -22,13 +23,20 @@ export default function Page() {
     <>
       <Navbar />
 
+      <PageHeader
+        pageTitle="MOCK TEST"
+        breadcrumbTextOne="Home"
+        breadcrumbUrl="/"
+        breadcrumbTextTwo="MOCK TEST"
+      />
+
       <Banner />
 
       <FeaturedServices />
 
       <About />
 
-      <Services />
+      
 
       <WhyChooseUs />
 

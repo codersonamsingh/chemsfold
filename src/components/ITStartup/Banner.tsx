@@ -13,10 +13,10 @@ const Banner: React.FC = () => {
 
   return (
     <>
-      <FsLightbox
+      {/* <FsLightbox
         toggler={toggler}
         sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
-      />
+      /> */}
 
       <div className="it-banner">
         <div className="d-table">
@@ -54,11 +54,16 @@ const Banner: React.FC = () => {
                         CLASSES <span></span>
                       </Link>
 
+                      <Link href="/MockTest" className="default-btn mr-3">
+                        MOCK TEST <span></span>
+                      </Link>
+
+
                       <div
-                        className="video-btn"
+                        className="btn"
                         onClick={() => setToggler(!toggler)}
                       >
-                        <i className="flaticon-play-button"></i> MOCK TEST
+                        {/* <i className="flaticon-play-button"></i> MOCK TEST */}
                       </div>
                     </div>
                   </div>
