@@ -50,7 +50,7 @@ const Banner: React.FC = () => {
                       data-aos-duration="800"
                       data-aos-delay="300"
                     >
-                      <Link href="/contact" className="default-btn mr-3">
+                      <Link href="/Classes" className="default-btn mr-3">
                         CLASSES <span></span>
                       </Link>
 
