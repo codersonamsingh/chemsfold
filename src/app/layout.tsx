@@ -21,9 +21,9 @@ const overpass = Overpass({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title:
-    "Softechinfra - MultiDomain Technology Services & IT Startup",
+    "Chelmsford - Assisted Living Facility at Mahavir Nagar,Araria",
   description:
-    "Softechinfra - MultiDomain Technology Services & IT Startup - Website build by Vivek Singh",
+    "Chelmsford - Assisted Living Facility at Mahavir Nagar,Araria - Website build by Vivek Singh",
 };
 
 export default function RootLayout({
