@@ -10,10 +10,9 @@ const FeaturedServices: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Our Services</span>
-            <h2>Our Featured Services</h2>
+            <h2>Discover Our Services</h2>
             <p>
-              Real innovations and a positive customer experience are the heart
-              of successful communication. No fake products and services.
+              Explore our range of services designed to enhance your learning journey. We're committed to providing top-quality education tailored to your needs.
             </p>
           </div>
 
@@ -24,13 +23,13 @@ const FeaturedServices: React.FC = () => {
                   <i className="flaticon-analytics"></i>
                 </div>
 
-                <h3>Mock Test</h3>
+                <h3>Mock Tests</h3>
                 <p>
-                  Take mock tests to assess your knowledge and readiness for exams.
+                  Assess your skills and prepare effectively with our mock tests.
                 </p>
 
-                <Link href="/mock-tests" className="default-btn">
-                  Take Test <span></span>
+                <Link href="/MockTest" className="default-btn">
+                  Take Test <span> </span>
                 </Link>
               </div>
             </div>
@@ -43,10 +42,10 @@ const FeaturedServices: React.FC = () => {
 
                 <h3>Online Classes</h3>
                 <p>
-                  Enroll in our online classes for comprehensive learning experiences.
+                  Embark on a journey of knowledge with our interactive online classes.
                 </p>
 
-                <Link href="/online-classes" className="default-btn">
+                <Link href="/Classes" className="default-btn">
                   Enroll Now <span></span>
                 </Link>
               </div>
@@ -60,10 +59,10 @@ const FeaturedServices: React.FC = () => {
 
                 <h3>Personalized Learning</h3>
                 <p>
-                  Experience personalized learning tailored to your educational needs.
+                  Tailored learning experiences designed to meet your unique educational requirements.
                 </p>
 
-                <Link href="/personalized-learning" className="default-btn">
+                <Link href="/About Us" className="default-btn">
                   Learn More <span></span>
                 </Link>
               </div>

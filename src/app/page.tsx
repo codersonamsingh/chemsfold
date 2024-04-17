@@ -2,7 +2,7 @@ import Navbar from "../components/Layout/Navbar";
 import Banner from "../components/ITStartup/Banner";
 import WhatWeDo from "../components/Services/WhatWeDo";
 import WhyChooseUs from "../components/AboutTwo/WhyChooseUs";
-import FeaturedServices from "../components/CreativeAgency/FeaturedServices";
+import FeaturedServices from "../components/DigitalAgency/FeaturedServices";
 import PartnerSlider from "../components/Common/Partner/PartnerSlider";
 import OurServices from "../components/CreativeAgency/OurServices"; 
 import OurFeaturesTab from "../components/Common/OurFeaturesTab";
@@ -26,8 +26,14 @@ export default function Home() {
 
        <OurServices />
 
-        
+        <FeaturedServices/>
+
       
+      <Solution/>
+
+
+      <FunFacts/>
+
 
        <WhyChooseUs />
 

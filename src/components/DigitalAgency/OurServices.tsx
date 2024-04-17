@@ -165,6 +165,7 @@ const OurServices: React.FC = () => {
               data-aos-once="true"
             >
               <div className="image">
+                
                 <Image
                   src="/images/features-image/feature-image1.png"
                   alt="image"

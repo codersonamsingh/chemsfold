@@ -30,7 +30,7 @@ export default function Page() {
         breadcrumbTextTwo="MOCK TEST"
       />
 
-      <Banner />
+      
 
       <FeaturedServices />
 

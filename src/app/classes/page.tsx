@@ -4,7 +4,7 @@ import PageHeader from "../../components/Common/PageHeader";
 import Banner from "../../components/DigitalAgency/Banner";
 import FeaturedServices from "../../components/DigitalAgency/FeaturedServices";
 import PartnerSlider from "../../components/Common/Partner/PartnerSlider";
-import OurServices from "../../components/DigitalAgency/OurServices";
+import OurServices from "../../components/CreativeAgency/OurServices"; 
 import OurFeaturesTab from "../../components/Common/OurFeaturesTab";
 import FunFacts from "../../components/Common/FunFacts";
 import ProjectGallerySlider from "../../components/Common/ProjectGallerySlider";
@@ -29,15 +29,9 @@ export default function Page() {
       />
       
 
-      
-
-      <FeaturedServices />
-
-      
-
       <OurServices />
 
-      
+      <FeaturedServices />
 
       <FunFacts />
 
