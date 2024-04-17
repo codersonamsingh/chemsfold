@@ -4,7 +4,7 @@ import WhatWeDo from "../components/Services/WhatWeDo";
 import WhyChooseUs from "../components/AboutTwo/WhyChooseUs";
 import FeaturedServices from "../components/CreativeAgency/FeaturedServices";
 import PartnerSlider from "../components/Common/Partner/PartnerSlider";
-import OurServices from "../components/CreativeAgency/OurServices";
+import OurServices from "../components/CreativeAgency/OurServices"; 
 import OurFeaturesTab from "../components/Common/OurFeaturesTab";
 import FunFacts from "../components/Common/FunFacts";
 import ProjectGallerySlider from "../components/Common/ProjectGallerySlider";

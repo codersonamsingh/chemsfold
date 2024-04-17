@@ -19,7 +19,7 @@ export default function Page() {
         breadcrumbUrl="/"
         breadcrumbTextTwo="About Us"
       />
-       <BannerSlider />
+      
 
       <AboutArea />
 

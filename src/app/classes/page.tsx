@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../../components/Layout/Navbar";
+import PageHeader from "../../components/Common/PageHeader";
 import Banner from "../../components/DigitalAgency/Banner";
 import FeaturedServices from "../../components/DigitalAgency/FeaturedServices";
 import PartnerSlider from "../../components/Common/Partner/PartnerSlider";
@@ -20,7 +21,15 @@ export default function Page() {
     <>
       <Navbar />
 
-      <Banner />
+      <PageHeader
+        pageTitle="Classes"
+        breadcrumbTextOne="Home"
+        breadcrumbUrl="/"
+        breadcrumbTextTwo="Classes"
+      />
+      
+
+      
 
       <FeaturedServices />
 
